@@ -3,7 +3,7 @@
 I am an 👨‍💻 software engineer.
 
 - 🔭 I’m currently working on AI project (Lu_Brain)
--⚡ Fun fact: C > C++ :)
+- -⚡ Fun fact: C > C++ :)
 - 💬 Ask me about aliens :)
 
 <br>
