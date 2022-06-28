@@ -1,11 +1,14 @@
 ### Hi there 👋
 
 I am an 👨‍💻 software engineer.
-
+   
 - 🔭 I’m currently working on AI project (Lu_Brain)
-- ⚡ Fun fact: C > C++ :)
-- 💬 Ask me about aliens :)
-
+- ⚡ Fun fact: C > C++ 🙂
+- 💬 Ask me about aliens 👽
+<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/2320233/176321651-8665c20b-8e55-4c3f-9686-b2a43500e4b2.gif" alt="coffee" width="128"/>
+</div>
 <br>
 <div align="center">
   <p align="center">
