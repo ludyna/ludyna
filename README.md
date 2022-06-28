@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I am an experienced 👨‍💻 software engineer specializing in C and Full-Stack development.
+I am an 👨‍💻 software engineer.
 
-- 🔭 I’m currently working on AI project written in C (Lu_Brain)
+- 🔭 I’m currently working on AI project (Lu_Brain)
+-⚡ Fun fact: C > C++ :)
+- 💬 Ask me about aliens :)
 
 <br>
 <div align="center">
