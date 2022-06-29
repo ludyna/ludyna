@@ -7,10 +7,6 @@ I am an software engineer 👨‍💻.
 - 💬 Ask me about aliens 👽
 <br>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/2320233/176321651-8665c20b-8e55-4c3f-9686-b2a43500e4b2.gif" alt="coffee" width="128"/>
-</div>
-<br>
-<div align="center">
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ludyna&show_icons=true&theme=github_dark&count_private=true" alt="ludyna" />
   </p>
@@ -42,7 +38,10 @@ I am an software engineer 👨‍💻.
 <img align="justify" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
 <img align="justify" alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </div>
-
+<br>
+<div align="right">
+<img src="https://user-images.githubusercontent.com/2320233/176321651-8665c20b-8e55-4c3f-9686-b2a43500e4b2.gif" alt="coffee" width="128"/>
+</div>
 <!--
 **ludyna/ludyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
