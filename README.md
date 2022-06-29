@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am an software engineer 👨‍💻.
-   
+ 
 - 🔭 I’m currently working on AI project (Lu_Brain)
 - ⚡ Fun fact: C > C++ 🙂
 - 💬 Ask me about aliens 👽
@@ -31,16 +31,12 @@ I am an software engineer 👨‍💻.
 ## Expertise
 
 <div>
-<img align="justify" alt="ruby-on-rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
-<img align="justify" alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-<img align="justify" alt="C" src="https://img.shields.io/badge/gcc-CC342D?style=for-the-badge&logo=c&logoColor=white" />
-<img align="justify" alt="postgre-sql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="justify" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-<img align="justify" alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-</div>
-<br>
-<div align="right">
-<img src="https://user-images.githubusercontent.com/2320233/176321651-8665c20b-8e55-4c3f-9686-b2a43500e4b2.gif" alt="coffee" width="128"/>
+<img align="justify" alt="ruby-on-rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" valign="top" />
+<img align="justify" alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" valign="top" />
+<img align="justify" alt="C" src="https://img.shields.io/badge/gcc-CC342D?style=for-the-badge&logo=c&logoColor=white" valign="top" />
+<img align="justify" alt="postgre-sql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" valign="top" />
+<img align="justify" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" valign="top" />
+<img align="justify" alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" valign="top" />
 </div>
 <!--
 **ludyna/ludyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
