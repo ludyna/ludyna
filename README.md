@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an software engineer 👨‍💻.
+I am a software engineer 👨‍💻.
  
 - 🔭 I’m currently working on AI project (Lu_Brain)
 - ⚡ Fun fact: C is awesome 🙂
