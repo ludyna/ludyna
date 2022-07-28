@@ -2,9 +2,8 @@
 
 I am a software engineer 👨‍💻.
  
-- 🔭 I’m currently working on AI project (Lu_Brain)
-- ⚡ Fun fact: C is awesome 🙂
-- 💬 Ask me about aliens 👽
+- 🦄 I’m currently working on AI project (Lu_Brain)
+
 <br>
 <div align="center">
   <p align="center">
