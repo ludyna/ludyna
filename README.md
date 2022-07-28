@@ -3,6 +3,7 @@
 I am a software engineer 👨‍💻.
  
 - 🦄 I’m currently working on AI project (Lu_Brain)
+- 🎓 I have a master's degree in applied mathematics and information systems.
 
 <br>
 <div align="center">
