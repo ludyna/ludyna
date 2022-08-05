@@ -3,7 +3,7 @@
 I am a software engineer 👨‍💻.
  
 - 🦄 I’m currently working on AI project (Lu_Brain)
-- 💬 Ask me about what is wrong with current AI. 
+- 💬 Ask me about what is wrong with modern AI. 
 - 💬 Ask me about future of the gaming and gave dev. 
 - 💬 Ask me about programming languages.
 - 🎓 I have a master's degree in applied mathematics and information systems.
