@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am a software engineer 👨‍💻.
+I am a software engineer 👨‍💻 and independent AI researcher.
  
-- 🦄 I’m currently working on AI project (Lu_Brain)
+- 🦄 I'm currently working on an AI project (Lu_Brain)
 - 💬 Ask me about what is wrong with modern AI. 
-- 💬 Ask me about future of the gaming and gave dev. 
+- 💬 Ask me about the future of gaming and game dev in the context of AI. 
 - 💬 Ask me about programming languages.
 - 🎓 I have a master's degree in applied mathematics and informatics (Ukraine).
 
