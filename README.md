@@ -6,7 +6,7 @@ I am a software engineer 👨‍💻.
 - 💬 Ask me about what is wrong with modern AI. 
 - 💬 Ask me about future of the gaming and gave dev. 
 - 💬 Ask me about programming languages.
-- 🎓 I have a master's degree in applied mathematics and information systems.
+- 🎓 I have a master's degree in applied mathematics and informatics (Ukraine).
 
 <br>
 <div align="center">
