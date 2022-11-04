@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software engineer 👨‍💻 and independent AI researcher.
+I am a CTO and founder of Ludyna, an engineer 👨‍💻 and an independent AI researcher.
  
 - 🦄 I'm currently working on an AI project (Lu_Brain)
 - 💬 Ask me about what is wrong with modern AI. 
