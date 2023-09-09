@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-I am a founder and CTO of Ludyna 👨‍💻 and an independent AI researcher.
- 
-- 🦄 I'm currently working on an AI project (Lu_Brain)
-- 💬 Ask me about what is wrong with modern AI. 
-- 💬 Ask me about the future of gaming and game dev in the context of AI. 
-- 💬 Ask me about programming languages.
-- 🎓 I have a master's degree in applied mathematics and informatics (Ukraine).
+I am a software engineer.
+
+- 🎓 I have a master's in applied mathematics and informatics (Ukraine).
 
 <br>
 <div align="center">
